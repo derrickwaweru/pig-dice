@@ -1,0 +1,13 @@
+.jumbotron{
+  background-image: url(../images/throw.jpg);
+  padding:200px;
+  margin:2%;
+  
+}
+.player-console{
+  display:none;
+}
+.start-menu{
+  font-style:bold;
+  font-family: sans-serif;
+}
